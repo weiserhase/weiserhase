@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weiserhase
 - 👀 I’m interested in Python, Javascript, AI Technology
 - 🌱 I’m currently learning Neural Network Engineering
-- 💞️ I’m looking to collaborate on no public project
+- 💞️ I’m currently working on a Custom Private Messenger and a Language Predictive Network
 - 📫 How to reach me weiserhase.development@gmail.com
 
 <!---
