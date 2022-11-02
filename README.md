@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weiserhase
-- 👀 I’m interested in Python, Javascript, AI Technology, Blockchain
+- 👀 I’m interested in Python, AI Technology, Javascript, Blockchain
 - 🌱 I’m currently learning Neural Network Engineering
 - 💞️ I’m currently working on a Custom Private Messenger, a Language Predictive Network and a Blockchain
 - 📫 How to reach me weiserhase.development@gmail.com
