@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @weiserhase
-- 👀 I’m interested in Python, React, AI Technology, Blockchain
-- 🌱 I’m currently learning Neural Network Engineering
+- 👋 Hi, I’m @weiserhase im currently studying Computer Sience
+- 👀 I’m interested in AI Technology, Blockchain, Reinforcement Leraning and New Programming 
+- 📋 Im using Python, Scala, Rust, Haskell, React
 - 💞️ I’m currently working on a Custom Private Messenger, a Language Predictive Network and a Blockchain
 - 📫 How to reach me weiserhase.development@gmail.com
 
