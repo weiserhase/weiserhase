@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weiserhase im currently studying Computer Sience
-- 👀 I’m interested in AI Technology, Blockchain, Reinforcement Leraning and New Programming 
-- 📋 Im currently using Python, Rust, Haskell, Idris2
-- 💞️ I’m currently working on a Python Game, Sentiment analysis using Transformers and expanding my comprehensive pythonutils    
+- 👀 I’m interested in Programming Languages, Weather forecasting, Weather analysis, Data Processing 
+- 📋 Im currently using Python, Haskell, Idris2
+- 💞️ I’m currently working on a weather forecasing system and expanding my comprehensive pythonutils library    
 - 📫 How to reach me j.keller.wol@gmail.com
 
 <!---
